@@ -1,0 +1,29 @@
+{
+  "name": "profile-link-fetcher",
+  "version": "0.0.1",
+  "description": "Fetches the social links from the user's profile page",
+  "main": "app.js",
+  "dependencies": {
+    "async": "~0.9.0",
+    "cheerio": "~0.18.0",
+    "request": "~2.53.0",
+    "csv": "~0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iyogeshjoshi/profile-link-fetcher.git"
+  },
+  "author":{
+    "name": "Yogesh Joshi",
+    "email": "iyogeshjoshi@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iyogeshjoshi/profile-link-fetcher/issues"
+  },
+  "homepage": "https://github.com/iyogeshjoshi/profile-link-fetcher"
+}
